@@ -1,6 +1,5 @@
 import simplegui
 import random
-
 WIDTH = 600
 HEIGHT = 400       
 BALL_RADIUS = 20
